@@ -1,9 +1,9 @@
-<h2 align="left">Hey there! 👋 My name is Franz, and i'm a fullstack dev. from Argentina.</h2>
+<h2 align="left">Flair® Digital</h2>
 
 ###
 
-<p align="left">• You can usually find me making mods and contributions on Nexus Mods and Thunderstore.<br>• Some of my work includes being part of the development team for Thrive, Notmads and Resident Evil 4 HD Project.</p>
-<p align="left">• Also, I am the Co-Founder of <a href="https://www.linkedin.com/company/101464300" target="_blank">Flair</a>, an international Digital Marketing agency based in Argentina. </p>
+<p align="left">• Flair offers solutions for your online image. From branding your company, designing your website, and optimizing it for higher rankings in search engine results, to the creation and execution of a complete digital marketing strategy.</p>
+<p align="left">• Follow us on <a href="https://www.linkedin.com/company/101464300" target="_blank">Instagram</a>!</p>
 
 ###
 
@@ -76,13 +76,12 @@
 ###
 
 <div align="left">
-  <a href="https://twitter.com/franz_py" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/franz.py" target="_blank">
+  <a href="https://www.instagram.com/flair.arg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://discord.gg/WN7rEkQv" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=wfranz&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    </a>
 </div>
 
 ###
