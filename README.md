@@ -3,7 +3,6 @@
 ###
 
 <p align="left">• Flair offers solutions for your online image. From branding your company, designing your website, and optimizing it for higher rankings in search engine results, to the creation and execution of a complete digital marketing strategy.</p>
-<p align="left">• Follow us on <a href="https://www.instagram.com/flair.arg/" target="_blank">Instagram</a>!</p>
 
 ###
 
